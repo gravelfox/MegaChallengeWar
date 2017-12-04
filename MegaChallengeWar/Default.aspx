@@ -17,9 +17,6 @@
     
     </div>
         <asp:Label ID="gamePlayLabel" runat="server"></asp:Label>
-        <br />
-        <br />
-        <asp:Label ID="winnerLabel" runat="server"></asp:Label>
     </form>
 </body>
 </html>
